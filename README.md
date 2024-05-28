@@ -239,3 +239,8 @@ Prometheus
 node_cpu_seconds_total
 node_memory_MemFree_bytes
 node_load1 Execute en la parte de busquedad
+
+Instancia de EC2:
+
+![image](https://github.com/zh-art/MinWebAppDockerizada/assets/131270996/1e2f814d-d99b-4bd3-891d-5b601ab18106)
+
